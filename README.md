@@ -11,12 +11,13 @@ A sleek and responsive dashboard built with React, Tailwind CSS, and Vite to mon
 
 ## 📦 Installation & Setup
 
-1️⃣ Clone the Repository:
+### 1️⃣ Clone the Repository:
 git clone https://github.com/ctrl-piyush/Crypto-Dashboard.git
 cd Crypto-Dashboard
-2️⃣ Install Dependencies
+
+### 2️⃣ Install Dependencies
 Make sure you have Node.js (LTS) installed.
 Then run:
 npm install
-3️⃣ Run in Development Mode
+### 3️⃣ Run in Development Mode
 npm run dev
