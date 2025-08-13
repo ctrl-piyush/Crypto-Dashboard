@@ -13,6 +13,7 @@ A sleek and responsive dashboard built with React, Tailwind CSS, and Vite to mon
 
 ### 1️⃣ Clone the Repository:
 git clone https://github.com/ctrl-piyush/Crypto-Dashboard.git
+
 cd Crypto-Dashboard
 
 ### 2️⃣ Install Dependencies
