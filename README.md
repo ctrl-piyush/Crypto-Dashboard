@@ -1,24 +1,54 @@
-# 💹 Crypto Dashboard
+Crypto Dashboard
+A web application to display real-time cryptocurrency data in a beautiful and easy-to-use interface.
 
-A sleek and responsive dashboard built with React, Tailwind CSS, and Vite to monitor cryptocurrency data in real-time.
+Features
+Real-time Data: Get the latest cryptocurrency prices, market caps, and more.
 
-## ✨ Features
+Detailed View: Click on a cryptocurrency to view more detailed information and a historical price chart.
 
-- Search and view top coins
-- Currency converter
-- Sparkline charts
-- Dark mode toggle
+Search: Easily search for any cryptocurrency.
 
-## 📦 Installation & Setup
+Dark & Light Mode: Switch between dark and light mode for your viewing preference.
 
-### 1️⃣ Clone the Repository:
+Responsive Design: Works on all devices.
+
+Screenshots
+Main Dashboard (Light Mode)
+https://github.com/ctrl-piyush/Crypto-Dashboard/blob/main/Screenshot%202025-10-19%20203336.png
+Main Dashboard (Dark Mode)
+https://github.com/ctrl-piyush/Crypto-Dashboard/blob/main/Screenshot%202025-10-19%20203429.png
+Coin Detail Page
+https://github.com/ctrl-piyush/Crypto-Dashboard/blob/main/Screenshot%202025-10-19%20203403.png
+Technologies Used
+React
+
+
+Getting Started
+To get a local copy up and running follow these simple steps.
+
+Prerequisites
+npm
+
+Bash
+
+npm install npm@latest -g
+Installation
+Clone the repo
+
+Bash
+
 git clone https://github.com/ctrl-piyush/Crypto-Dashboard.git
+Install NPM packages
 
-cd Crypto-Dashboard
+Bash
 
-### 2️⃣ Install Dependencies
-Make sure you have Node.js (LTS) installed.
-Then run:
 npm install
-### 3️⃣ Run in Development Mode
-npm run dev
+Usage
+To run the app in the development mode, run:
+
+Bash
+
+npm start
+Open http://localhost:3000 to view it in the browser.
+
+The page will reload if you make edits. You will also see any lint errors in the console.
