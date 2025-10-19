@@ -13,12 +13,10 @@ Dark & Light Mode: Switch between dark and light mode for your viewing preferenc
 Responsive Design: Works on all devices.
 
 Screenshots
-Main Dashboard (Light Mode)
-https://github.com/ctrl-piyush/Crypto-Dashboard/blob/main/Screenshot%202025-10-19%20203336.png
-Main Dashboard (Dark Mode)
-https://github.com/ctrl-piyush/Crypto-Dashboard/blob/main/Screenshot%202025-10-19%20203429.png
-Coin Detail Page
-https://github.com/ctrl-piyush/Crypto-Dashboard/blob/main/Screenshot%202025-10-19%20203403.png
+
+![Main Dashboard (Light Mode)]<https://github.com/ctrl-piyush/Crypto-Dashboard/blob/main/Screenshot%202025-10-19%20203336.png>
+![Main Dashboard (Dark Mode)]<https://github.com/ctrl-piyush/Crypto-Dashboard/blob/main/Screenshot%202025-10-19%20203429.png>
+![Coin Detail Page]<https://github.com/ctrl-piyush/Crypto-Dashboard/blob/main/Screenshot%202025-10-19%20203403.png>
 Technologies Used
 React
 
